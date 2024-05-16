@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T08:06:36.447Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="b4DyCL3bNbfORGch5YUb" version="24.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-16T08:41:25.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="ld1LVQPPFA_f4GyhIqmD" version="24.4.2" type="github">
   <diagram name="第 1 页" id="1F1AiMC7PK8RF2ciJAmA">
-    <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,13 +48,13 @@
         <mxCell id="Rm1JZIe86LfK_nkms-XK-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rm1JZIe86LfK_nkms-XK-19" target="Rm1JZIe86LfK_nkms-XK-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Rm1JZIe86LfK_nkms-XK-19" value="segment guidance&lt;div&gt;vectors&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="Rm1JZIe86LfK_nkms-XK-19" value="segmantics guidance&lt;div&gt;vectors&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="620" y="608" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rm1JZIe86LfK_nkms-XK-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rm1JZIe86LfK_nkms-XK-20" target="Rm1JZIe86LfK_nkms-XK-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Rm1JZIe86LfK_nkms-XK-20" value="edge guidance&lt;div&gt;vectors&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Rm1JZIe86LfK_nkms-XK-20" value="edge guidance&lt;div&gt;vectors&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="620" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rm1JZIe86LfK_nkms-XK-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rm1JZIe86LfK_nkms-XK-21" target="Rm1JZIe86LfK_nkms-XK-17">
@@ -106,7 +106,7 @@
           <mxGeometry x="730" y="770" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rm1JZIe86LfK_nkms-XK-45" value="结构化码流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="520" y="820" width="80" height="30" as="geometry" />
+          <mxGeometry x="560" y="820" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rm1JZIe86LfK_nkms-XK-47" value="essential" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="710" y="470" width="70" height="30" as="geometry" />
@@ -119,6 +119,18 @@
         </mxCell>
         <mxCell id="Rm1JZIe86LfK_nkms-XK-51" value="information channel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="760" y="1000" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rm1JZIe86LfK_nkms-XK-52" value="object movement&amp;nbsp;&lt;div&gt;trace vectors&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rm1JZIe86LfK_nkms-XK-53" value="segmantics encrypt&lt;div&gt;vectors&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rm1JZIe86LfK_nkms-XK-54" value="segmantics super&lt;div&gt;resolution vectors&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rm1JZIe86LfK_nkms-XK-55" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;optional vectors:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="740" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
