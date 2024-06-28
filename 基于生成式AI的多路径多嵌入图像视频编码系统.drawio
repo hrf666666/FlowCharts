@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T06:17:40.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="f6g9i3KuhdyFH9O4PkFO" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-28T06:52:11.272Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="8S2FXmDL9RLPnEJ3tW24" version="24.6.2" type="github">
   <diagram name="第 1 页" id="JpJuvLmKtG-MRXJeiW7m">
-    <mxGraphModel dx="2357" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2847" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,7 +103,7 @@
         <mxCell id="BcCwPTK8j7OGMrzo-Ye--94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="BcCwPTK8j7OGMrzo-Ye--66" target="BcCwPTK8j7OGMrzo-Ye--93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BcCwPTK8j7OGMrzo-Ye--66" value="图像质量综合评价模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BcCwPTK8j7OGMrzo-Ye--66" value="图像/视频质量综合评价模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="820" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BcCwPTK8j7OGMrzo-Ye--69" value="语义优化模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
