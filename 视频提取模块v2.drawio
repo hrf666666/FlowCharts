@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T09:44:08.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="8ZdoJEkSRHg42rfkmAFJ" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T09:45:07.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="Bb0Reslho5KyPUo6gUFy" version="24.6.4" type="github">
   <diagram name="第 1 页" id="JpJuvLmKtG-MRXJeiW7m">
     <mxGraphModel dx="815" dy="-375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -340,6 +340,16 @@
         </mxCell>
         <mxCell id="t_GLIvbP3oK162fX5fWq-2" value="&lt;div&gt;语义微调&lt;/div&gt;&lt;div&gt;控制向量&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1179" y="1790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t_GLIvbP3oK162fX5fWq-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="1880.1000000000001" as="targetPoint" />
+            <mxPoint x="1070" y="1879.71" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1110" y="1879.71" />
+              <mxPoint x="1110" y="1879.71" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
