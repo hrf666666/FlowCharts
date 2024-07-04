@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T09:13:50.671Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="qfRnhqDmAU3gjP-NVQFg" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T09:14:18.837Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="wrXaESyyhhi-FmyBN_2L" version="24.6.4" type="github">
   <diagram name="第 1 页" id="JpJuvLmKtG-MRXJeiW7m">
-    <mxGraphModel dx="1426" dy="-36" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="-281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MxfFoUVx61xuFkuIelYx-42" value="&lt;b&gt;图像/视频内容理解&lt;/b&gt;&lt;div&gt;&lt;b&gt;模型&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MxfFoUVx61xuFkuIelYx-42" value="&lt;b&gt;视频内容理解&lt;/b&gt;&lt;div&gt;&lt;b&gt;模型&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="929" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MxfFoUVx61xuFkuIelYx-43" value="目标运动轨迹&lt;div&gt;特征描述子&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
