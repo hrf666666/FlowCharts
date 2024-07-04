@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T09:27:21.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="S5IB-QFQNxWEF3x-19So" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T09:33:12.988Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="jhSkVVGnLUWlhmEdGfCz" version="24.6.4" type="github">
   <diagram name="第 1 页" id="JpJuvLmKtG-MRXJeiW7m">
-    <mxGraphModel dx="1426" dy="-36" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="-281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,8 +25,8 @@
         <mxCell id="MxfFoUVx61xuFkuIelYx-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1170" y="1060" width="139" height="800" as="geometry" />
         </mxCell>
-        <mxCell id="MxfFoUVx61xuFkuIelYx-22" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;特征提取提取模块&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="940" y="1860" width="130" height="40" as="geometry" />
+        <mxCell id="MxfFoUVx61xuFkuIelYx-22" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;特征提取模块&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="949" y="1860" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MxfFoUVx61xuFkuIelYx-27" value="边缘信息&lt;div&gt;特征图&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1179" y="1190" width="120" height="60" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="1179" y="1430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MxfFoUVx61xuFkuIelYx-34" value="&lt;div&gt;个性化风格表达&lt;/div&gt;&lt;div&gt;指导向量&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1179" y="1730" width="120" height="60" as="geometry" />
+          <mxGeometry x="1179" y="1670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MxfFoUVx61xuFkuIelYx-35" value="&lt;div&gt;低分辨率&lt;/div&gt;&lt;div&gt;特征图&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1179" y="1250" width="120" height="60" as="geometry" />
@@ -56,7 +56,7 @@
           <mxGeometry x="1179" y="1550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MxfFoUVx61xuFkuIelYx-38" value="&lt;div&gt;语义一致性&lt;/div&gt;&lt;div&gt;控制向量&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1179.5" y="1610" width="120" height="60" as="geometry" />
+          <mxGeometry x="1179" y="1610" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MxfFoUVx61xuFkuIelYx-39" value="&lt;div&gt;基础控制参数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1179" y="1790" width="120" height="60" as="geometry" />
@@ -93,7 +93,7 @@
           <mxGeometry x="929" y="1430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MxfFoUVx61xuFkuIelYx-48" value="&lt;div&gt;个性化风格&lt;/div&gt;&lt;div&gt;特征提取模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="929.5" y="1730" width="120" height="60" as="geometry" />
+          <mxGeometry x="929" y="1670" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MxfFoUVx61xuFkuIelYx-49" value="&lt;div&gt;低分辨率&lt;/div&gt;&lt;div&gt;特征图提取模型&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="929" y="1250" width="120" height="60" as="geometry" />
@@ -107,11 +107,11 @@
         <mxCell id="MxfFoUVx61xuFkuIelYx-52" value="&lt;div&gt;语义内部一致性&lt;/div&gt;&lt;div&gt;特征&lt;span style=&quot;background-color: initial;&quot;&gt;提取模型&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="929" y="1610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MxfFoUVx61xuFkuIelYx-53" value="&lt;div&gt;视频基础信息读取&lt;/div&gt;&lt;div&gt;及基础控制参数微调模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MxfFoUVx61xuFkuIelYx-53" value="&lt;div&gt;图像基础信息读取&lt;/div&gt;&lt;div&gt;及基础控制参数微调模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="929" y="1790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MxfFoUVx61xuFkuIelYx-54" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;多嵌入特征语义信息&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1170" y="1860" width="140" height="40" as="geometry" />
+          <mxGeometry x="1183.5" y="1860" width="111" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MxfFoUVx61xuFkuIelYx-57" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="MxfFoUVx61xuFkuIelYx-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -316,6 +316,12 @@
         </mxCell>
         <mxCell id="tYisujq_Tc-ig6ptFAuq-4" value="语义相对位置关系&lt;div&gt;指导向量&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1179" y="1370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BGm8SVZAMtmkZX6ue5C6-1" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;语义微调模型&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="929" y="1730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BGm8SVZAMtmkZX6ue5C6-2" value="&lt;div&gt;语义微调&lt;/div&gt;&lt;div&gt;指导向量&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1179" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
