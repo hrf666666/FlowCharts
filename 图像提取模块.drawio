@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T09:36:55.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="6IVB6CHLD1iZvliii2fY" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-04T09:44:04.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="AhHQjq7Bd9hCdd8h7vmR" version="24.6.4" type="github">
   <diagram name="第 1 页" id="JpJuvLmKtG-MRXJeiW7m">
     <mxGraphModel dx="983" dy="-281" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -320,7 +320,7 @@
         <mxCell id="BGm8SVZAMtmkZX6ue5C6-1" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;语义微调模型&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="929" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BGm8SVZAMtmkZX6ue5C6-2" value="&lt;div&gt;语义微调&lt;/div&gt;&lt;div&gt;指导向量&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BGm8SVZAMtmkZX6ue5C6-2" value="&lt;div&gt;语义微调&lt;/div&gt;&lt;div&gt;控制向量&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1179" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
