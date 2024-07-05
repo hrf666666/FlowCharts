@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-05T07:39:25.787Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="gZ-JsG-uHzBDGl1aEm_n" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-05T09:03:42.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="XjNbJLuR4KUUvUfzgkVk" version="24.6.4" type="github">
   <diagram name="第 1 页" id="JpJuvLmKtG-MRXJeiW7m">
-    <mxGraphModel dx="2152" dy="546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2595" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,6 +191,14 @@
         </mxCell>
         <mxCell id="BcCwPTK8j7OGMrzo-Ye--98" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="445" y="918" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="460OhWaofEb6IoYsHkSF-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BcCwPTK8j7OGMrzo-Ye--100" target="BcCwPTK8j7OGMrzo-Ye--66">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="100" y="495" />
+              <mxPoint x="100" y="850" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="BcCwPTK8j7OGMrzo-Ye--100" value="服务（发送端）&lt;div&gt;提示词及&lt;span style=&quot;background-color: initial;&quot;&gt;需求参数&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="460" width="130" height="70" as="geometry" />
