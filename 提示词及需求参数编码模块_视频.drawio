@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" modified="2024-07-05T09:48:00.639Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="zeOePn9-RrGqFXgUIAUe" version="24.6.4" type="github">
+  <diagram name="第 1 页" id="JpJuvLmKtG-MRXJeiW7m">
+    <mxGraphModel dx="1984" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="94BvEpf6wOVKrPeJZuwF-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="94BvEpf6wOVKrPeJZuwF-1" target="94BvEpf6wOVKrPeJZuwF-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94BvEpf6wOVKrPeJZuwF-1" value="用户（接收端）&lt;div&gt;提示词及&lt;span style=&quot;background-color: initial;&quot;&gt;需求参数&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="360" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="94BvEpf6wOVKrPeJZuwF-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="94BvEpf6wOVKrPeJZuwF-2" target="94BvEpf6wOVKrPeJZuwF-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94BvEpf6wOVKrPeJZuwF-2" value="服务（发送端）&lt;div&gt;提示词及&lt;span style=&quot;background-color: initial;&quot;&gt;需求参数&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="500" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="94BvEpf6wOVKrPeJZuwF-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="94BvEpf6wOVKrPeJZuwF-11" target="94BvEpf6wOVKrPeJZuwF-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94BvEpf6wOVKrPeJZuwF-11" value="Encoder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94BvEpf6wOVKrPeJZuwF-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="94BvEpf6wOVKrPeJZuwF-13" target="94BvEpf6wOVKrPeJZuwF-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94BvEpf6wOVKrPeJZuwF-13" value="Encoder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="505" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94BvEpf6wOVKrPeJZuwF-17" value="提示词向量&lt;div&gt;及需求参数码流&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94BvEpf6wOVKrPeJZuwF-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="94BvEpf6wOVKrPeJZuwF-21" target="94BvEpf6wOVKrPeJZuwF-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94BvEpf6wOVKrPeJZuwF-21" value="嵌入层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="94BvEpf6wOVKrPeJZuwF-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="94BvEpf6wOVKrPeJZuwF-24" target="94BvEpf6wOVKrPeJZuwF-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="94BvEpf6wOVKrPeJZuwF-24" value="嵌入层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="505" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
