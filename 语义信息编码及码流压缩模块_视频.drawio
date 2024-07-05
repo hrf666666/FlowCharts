@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-05T07:23:35.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="354Q9YIvEW71OKvLTpKZ" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-05T07:24:02.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="S8TOiDd0gyqC_5vShIOs" version="24.6.4" type="github">
   <diagram name="第 1 页" id="_UOp_g0qZEWWEiO1d6dB">
     <mxGraphModel dx="1426" dy="-36" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -99,7 +99,7 @@
         <mxCell id="nxrzOFdcy6R8p9DsEHy--13" value="片段n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="1940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nxrzOFdcy6R8p9DsEHy--14" value="尾部标识符" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nxrzOFdcy6R8p9DsEHy--14" value="尾部标识信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="1940" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nxrzOFdcy6R8p9DsEHy--50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nxrzOFdcy6R8p9DsEHy--15" target="nxrzOFdcy6R8p9DsEHy--45">
@@ -202,7 +202,7 @@
         <mxCell id="nxrzOFdcy6R8p9DsEHy--71" value="头部标识信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="2510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nxrzOFdcy6R8p9DsEHy--72" value="尾部标识符" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nxrzOFdcy6R8p9DsEHy--72" value="尾部标识信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="2510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nxrzOFdcy6R8p9DsEHy--73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.665;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nxrzOFdcy6R8p9DsEHy--58" target="nxrzOFdcy6R8p9DsEHy--68">
