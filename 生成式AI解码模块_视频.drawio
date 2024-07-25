@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-18T05:32:51.020Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="m0mOWq5mhvL_Lg-8SHUg" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-25T07:45:37.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="FKqHwhXqAozlpi4CLGaY" version="24.6.5" type="github">
   <diagram name="第 1 页" id="_UOp_g0qZEWWEiO1d6dB">
     <mxGraphModel dx="1426" dy="-36" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="335" y="1390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I4VxMJiTH_GUWdxZwMfk-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="900" width="139" height="860" as="geometry" />
+          <mxGeometry x="670" y="900" width="139" height="800" as="geometry" />
         </mxCell>
         <mxCell id="FY35_VsIN61rcXAERCnz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="I4VxMJiTH_GUWdxZwMfk-8" target="FY35_VsIN61rcXAERCnz-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -94,26 +94,17 @@
         <mxCell id="I4VxMJiTH_GUWdxZwMfk-18" value="&lt;div&gt;语义一致性&lt;/div&gt;&lt;div&gt;控制向量&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="679" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FY35_VsIN61rcXAERCnz-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="I4VxMJiTH_GUWdxZwMfk-19" target="FY35_VsIN61rcXAERCnz-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="I4VxMJiTH_GUWdxZwMfk-19" value="&lt;div&gt;基础控制参数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="679" y="1690" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="FY35_VsIN61rcXAERCnz-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="I4VxMJiTH_GUWdxZwMfk-20" target="FY35_VsIN61rcXAERCnz-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I4VxMJiTH_GUWdxZwMfk-20" value="语义相对位置关系&lt;div&gt;指导向量&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="679" y="1450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FY35_VsIN61rcXAERCnz-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="I4VxMJiTH_GUWdxZwMfk-21" target="FY35_VsIN61rcXAERCnz-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="I4VxMJiTH_GUWdxZwMfk-21" value="&lt;div&gt;语义微调&lt;/div&gt;&lt;div&gt;控制向量&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="679" y="1630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I4VxMJiTH_GUWdxZwMfk-25" value="多嵌入特征语义信息表征块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="679" y="1770" width="120" height="50" as="geometry" />
+          <mxGeometry x="679" y="1710" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FY35_VsIN61rcXAERCnz-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FY35_VsIN61rcXAERCnz-16" target="JVAT4u_bRU0mznnodtUo-8" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -163,6 +154,51 @@
         </mxCell>
         <mxCell id="JVAT4u_bRU0mznnodtUo-13" value="辅助表征分层表达模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1410" y="1160" width="220" height="359" as="geometry" />
+        </mxCell>
+        <mxCell id="JVAT4u_bRU0mznnodtUo-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="900" width="139" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="JVAT4u_bRU0mznnodtUo-18" value="边缘信息&lt;div&gt;特征图&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JVAT4u_bRU0mznnodtUo-19" value="&lt;b&gt;表征提示词&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JVAT4u_bRU0mznnodtUo-20" value="目标运动轨迹运动&lt;div&gt;指导特征图&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="1270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JVAT4u_bRU0mznnodtUo-21" value="语义超分辨率增强&lt;div&gt;特征图&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JVAT4u_bRU0mznnodtUo-22" value="可变语言文字&lt;div&gt;指导向量&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JVAT4u_bRU0mznnodtUo-23" value="&lt;div&gt;个性化风格表达&lt;/div&gt;&lt;div&gt;指导向量&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JVAT4u_bRU0mznnodtUo-24" value="&lt;div&gt;低分辨率&lt;/div&gt;&lt;div&gt;特征图&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JVAT4u_bRU0mznnodtUo-25" value="运动矢量方向特征图" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JVAT4u_bRU0mznnodtUo-26" value="&lt;div&gt;光流运动估计&lt;/div&gt;&lt;div&gt;特征图&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JVAT4u_bRU0mznnodtUo-27" value="&lt;div&gt;语义一致性&lt;/div&gt;&lt;div&gt;控制向量&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="1510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JVAT4u_bRU0mznnodtUo-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JVAT4u_bRU0mznnodtUo-28" target="FY35_VsIN61rcXAERCnz-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JVAT4u_bRU0mznnodtUo-28" value="&lt;div&gt;基础控制参数&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="1630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JVAT4u_bRU0mznnodtUo-30" value="语义相对位置关系&lt;div&gt;指导向量&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="1390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JVAT4u_bRU0mznnodtUo-31" value="&lt;div&gt;语义微调&lt;/div&gt;&lt;div&gt;控制向量&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="679" y="1570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
