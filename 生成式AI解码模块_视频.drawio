@@ -39,7 +39,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="I4VxMJiTH_GUWdxZwMfk-25" value="多嵌入特征信息&lt;div&gt;表征块&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="669.5" y="1604" width="120" height="50" as="geometry" />
+          <mxGeometry x="660" y="1570" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FY35_VsIN61rcXAERCnz-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FY35_VsIN61rcXAERCnz-16" target="JVAT4u_bRU0mznnodtUo-8" edge="1">
           <mxGeometry relative="1" as="geometry">
