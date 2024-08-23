@@ -66,7 +66,7 @@
         <mxCell id="FY35_VsIN61rcXAERCnz-38" value="产生重构视频/&lt;br&gt;待迭代视频" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1694" y="1270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JVAT4u_bRU0mznnodtUo-3" value="生成式AI&lt;div&gt;视频推理模型&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="JVAT4u_bRU0mznnodtUo-3" value="生成式AI&lt;div&gt;视频推理大模型&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1340" y="1550" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JVAT4u_bRU0mznnodtUo-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JVAT4u_bRU0mznnodtUo-8" target="FY35_VsIN61rcXAERCnz-38" edge="1">
