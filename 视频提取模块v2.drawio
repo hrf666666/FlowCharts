@@ -56,7 +56,7 @@
         <mxCell id="MxfFoUVx61xuFkuIelYx-48" value="&lt;div&gt;个性化风格&lt;/div&gt;&lt;div&gt;特征提取模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="929" y="1560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MxfFoUVx61xuFkuIelYx-51" value="&lt;div&gt;运动信息描述子&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MxfFoUVx61xuFkuIelYx-51" value="&lt;div&gt;运动信息描述模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="929" y="1260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MxfFoUVx61xuFkuIelYx-52" value="&lt;div&gt;语义内部一致性&lt;/div&gt;&lt;div&gt;特征&lt;span style=&quot;background-color: initial;&quot;&gt;提取模块&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
